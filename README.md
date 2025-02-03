@@ -3,4 +3,7 @@ This is the pipeline that used for clinical precise variant calling from whole g
 * Raw data : fastq files
 * Samples types: Normal, tumor and PDX
 * Output: Germline SNV, Germline structure variant, Somatic SNV, Somatic structure variant, Copy number variant, Clonality
-## Data precessing
+# Whole genome sequencing data analysis (GEM data, need details and link)
+1. Data downloaded from EGA
+2. Make Samplemap based on this template
+ 
