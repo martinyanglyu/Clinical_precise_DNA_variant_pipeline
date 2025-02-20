@@ -6,7 +6,7 @@ This is the pipeline that used for precise DNA variant calling from whole genome
 * Input Data structure
   
 ```
-│
+Patient_ID/tumorType/specimanID
 ├── BAM/                                # Main BAM directory (user-defined BAM_path)
 ├── Fastq/                              # FASTQ output directory (extracted from BAM)
 │   ├── Sample1_R1.fastq                # Forward reads
